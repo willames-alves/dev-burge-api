@@ -11,9 +11,11 @@
     "dev": " node --watch ./src/server.js"
   },
   "dependencies": {
-    "express": "^5.2.1"
+    "express": "^5.2.1",
+    "sequelize": "^3.30.0"
   },
   "devDependencies": {
-    "@biomejs/biome": "2.5.15"
+    "@biomejs/biome": "2.5.15",
+    "sequelize-cli": "^6.6.5"
   }
 }
